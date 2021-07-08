@@ -1,1 +1,1 @@
-# BattleShip-game-AI
+This is a battleship game program that is meant to emulate a battleship board at the beginning of the game, as the program attempts to find the battleship pieces in as few moves as possible. The program works by querying random moves on the grid until a ship is hit, where it will then search for the direction the remaining squares of the ship lies. The first function, "playGameHW5" is the battleship algorithm. To see the program run on a 10x10 grid, run the file "testProgram".
